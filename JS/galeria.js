@@ -1,4 +1,4 @@
-import jsonGaleria from '../Datos/galeria.json' assert { type: 'json' };
+import jsonGaleria from '../Datos/galeria.json';
 console.log(jsonGaleria);
 
 function crearImagenes() {
